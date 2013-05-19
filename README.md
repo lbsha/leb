@@ -1,4 +1,4 @@
 leb
 ===
 
-leb event bus
+leb  -> leb event bus  -> 烈 event bus
