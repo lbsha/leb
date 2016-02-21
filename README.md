@@ -1,7 +1,7 @@
 leb
 ---------------------------------------
 
-> leb  <- leb event bus  <- liebao event bus
+leb  `<-` leb event bus  `<-` liebao event bus
 
 ## Hello World
 
