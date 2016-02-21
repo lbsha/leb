@@ -6,7 +6,7 @@ LEB  `<-` Leb Event Bus  `<-` LiEBao event bus
 ## Hello World
 
 
-### pojo
+### POJO
 ```
 public class Say {
   @Observe(hint = "say")
@@ -31,7 +31,7 @@ public class Say {
 }
 ```
 
-### client
+### Client
 
 ```
 Lebs leb = Lebs.singleton();
