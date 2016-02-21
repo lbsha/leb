@@ -1,7 +1,7 @@
-leb
+LEB
 ---------------------------------------
 
-leb  `<-` leb event bus  `<-` liebao event bus
+LEB  `<-` Leb Event Bus  `<-` LiEBao event bus
 
 ## Hello World
 
