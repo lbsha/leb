@@ -1,7 +1,5 @@
-*.class
+target/
 
-# Package Files #
-*.jar
-*.war
-*.ear
-/target
+# JetBrains IDEs
+*.iml
+.idea/
